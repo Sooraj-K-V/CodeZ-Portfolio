@@ -1,7 +1,7 @@
 body {
     margin: 0;
     color: rgb(0, 0, 0);
-    background-color: rgb(0, 255, 30);
+    background-color: red;
     font-family: Arial, Helvetica, sans-serif;
     overflow-x: hidden;
     border: solid;
